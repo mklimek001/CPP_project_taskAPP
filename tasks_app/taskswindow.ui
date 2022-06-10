@@ -22,7 +22,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>Dialog</string>
+   <string>Tasks</string>
   </property>
   <widget class="QScrollArea" name="tasksArea">
    <property name="geometry">
