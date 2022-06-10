@@ -1,4 +1,4 @@
-# CPP_project_taskAPP
-Simple app with task list with user authorization.
-Tasks are stored in SQLite database.
-App user QT Library.
+# CPP_project_taskAPP <br />
+Simple app with task list with user authorization. <br />
+Tasks are stored in local SQLite database. <br />
+App use QT Library. <br />
